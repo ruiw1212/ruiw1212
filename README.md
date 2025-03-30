@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rui wei
 - 👀 I’m interested in coding, soccer and billiards
-- 🌱 I’m currently looking for a intern of sde
-- 📫 How to reach me : answerui12@gmail.com
+- 🌱 I’m currently looking for a full time of sde
+- 📫 How to reach me : ruiwei0012@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
